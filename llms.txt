@@ -1,0 +1,12 @@
+# Dexal
+
+> Technology advisory and fractional CTO consultancy by Daniel Nicolson.
+
+- URL: https://dexal.co.uk/
+- Site name: Dexal
+- Primary topic: Technology advisory, fractional CTO support, tech audits, and technology strategy
+- Contact: daniel@dexal.co.uk
+
+## Pages
+
+- https://dexal.co.uk/ - Main landing page with services, background, and contact details
